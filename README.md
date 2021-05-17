@@ -1,0 +1,2 @@
+# DjangoLocalLibrary
+Django trial website
